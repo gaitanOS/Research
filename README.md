@@ -4,6 +4,7 @@ Research at SCU. You may find the original document at https://scholarcommons.sc
 This thesis research project involved the building of a large dodecacopter, approximately 8ft x 8ft in size.
 
 My primary work involved:
+
 -C programming to connect the Pixhawk drone flight microcontroller to a FLIR Duo R.
 -JavaScript programming for web flight planning UI.
 -Photostitching from aerial flight missions.
