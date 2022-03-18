@@ -6,7 +6,9 @@ This thesis research project involved the building of a large dodecacopter, appr
 My primary work involved:
 
 -C programming to connect the Pixhawk drone flight microcontroller to a FLIR Duo R.
+
 -JavaScript programming for web flight planning UI.
+
 -Photostitching from aerial flight missions.
 
 The purpose of the drone was to carry out aerial photography missions over dry fields. 
